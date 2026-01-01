@@ -1,7 +1,7 @@
 It's just a basic command and control for now which I created to test in home labs.
 
 --It handles multiple clients 
---it has web based UI
+--it is CLI based for smoother working
 
 I will be making it more sophisticated stuff over time..here are some things that I'll be adding in future.
 1. A customized BOF(Beacon object files)
